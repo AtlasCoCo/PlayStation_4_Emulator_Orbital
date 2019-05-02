@@ -34,3 +34,5 @@ Kernel ELFs generated from memory dumps will **not** work since writable segment
 ## Acknowledgements
 
 Thanks to all people who have directly or indirectly helped in making this possible. In alphabetical order: *flatz, idc, m0rph3us1987, masterzorag, wildcard, x41, zecoxao, zer0xff, z80*. Also many anonymous folks and others who might have slipped my mind. You know who you are!
+
+![Logo](15841_playstation-4.png)
